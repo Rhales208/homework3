@@ -1,4 +1,4 @@
-
+git
 
 function isdrinkingage(age){
     if(age>=21){
@@ -8,4 +8,4 @@ function isdrinkingage(age){
     }
     
 }
-console.log(`can darie drink${32)}`)
+console.log(`can daria drink${32)}`)
